@@ -1,8 +1,8 @@
-@import "css/global.css";
+@import "global.css";
 
 /*Header*/
 #header {
-    background: url("../../images/header-background.jpg") no-repeat fixed center;
+    background: url("../../header-background.jpg") no-repeat fixed center;
     min-width: 100%;
     min-height: 800px;
     height: 80vh;
